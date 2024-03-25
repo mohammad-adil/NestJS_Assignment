@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "660167b850fcb405546a88b3"
+  },
+  "type": "admin",
+  "permissions": [
+    "update",
+    "delete",
+    "fetch",
+    "create"
+  ]
+},
+{
+  "_id": {
+    "$oid": "660167fc50fcb405546a88b4"
+  },
+  "type": "seller",
+  "permissions": [
+    "update",
+    "fetch",
+    "create"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6601688b50fcb405546a88b7"
+  },
+  "type": "supporter",
+  "permissions": [
+    "update",
+    "fetch"
+  ]
+}]
